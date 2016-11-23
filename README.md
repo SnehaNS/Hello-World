@@ -1,5 +1,5 @@
 # Hello-World
 My first repository.
 
-This is a first branch created.
-Hello Github!!!!
+
+This is branch3 that will be taken update in branch2.
