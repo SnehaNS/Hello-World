@@ -2,4 +2,6 @@
 My first repository.
 
 
-This is branch3 that will be taken update in branch2.
+This is branch3.
+Changes made in branch3.
+tesing branch 3
